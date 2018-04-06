@@ -1,0 +1,10 @@
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\obj\Debug\test_pinvoke.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\bin\Debug\test_pinvoke.exe.config
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\bin\Debug\test_pinvoke.exe
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\bin\Debug\test_pinvoke.pdb
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\obj\Debug\test_pinvoke.exe
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\obj\Debug\test_pinvoke.pdb
+C:\Users\mihan\source\repos\test_pinvoke\_build\x64\Debug\test_pinvoke.exe.config
+C:\Users\mihan\source\repos\test_pinvoke\_build\x64\Debug\test_pinvoke.exe
+C:\Users\mihan\source\repos\test_pinvoke\_build\x64\Debug\test_pinvoke.pdb
+C:\Users\mihan\source\repos\test_pinvoke\test_pinvoke\obj\Debug\test_pinvoke.csprojResolveAssemblyReference.cache
